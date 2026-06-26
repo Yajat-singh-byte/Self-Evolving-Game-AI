@@ -52,20 +52,3 @@ Outputs
 This project was created to explore how lightweight neural networks and genetic evolution can produce adaptive game AI without using reinforcement learning libraries or pretrained models.
 
 It serves as an experiment in AI programming, game development, and evolutionary algorithms.
-
-## Status
-
-Work in progress.
-
-Future improvements include:
-
-* Better fitness evaluation
-* More complex combat behavior
-* Larger input space
-* Multiple competing agents
-* Faster evolution
-* Visualization of neural network activity
-
-## License
-
-This project is available under the MIT License.
